@@ -2,6 +2,7 @@
   width: 1200px;
   padding: 25px 20px;
   border: 25px solid rgb(14, 202, 202);
+  border-radius: 30px;
   margin: 100px;
   background-color: aqua;
 }
