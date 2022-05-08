@@ -1,8 +1,9 @@
 .image{ 
   width: 1200px;
-  padding: 25px;
-  border: 25px solid paleturquoise;
+  padding: 25px 20px;
+  border: 25px solid rgb(14, 202, 202);
   margin: 100px;
+  background-color: aqua;
 }
 
 
