@@ -1,4 +1,5 @@
 .gallery{
+  object-fit: cover;
   text-align: center;
 }
 .image{ 
